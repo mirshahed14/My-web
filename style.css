@@ -17,9 +17,9 @@
 }
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 0;
     background-image: url("Resource/top2.png");
     background-repeat: no-repeat;
+    margin: 0%;
 }
 .button{
     text-decoration: none;
@@ -37,31 +37,36 @@ background-repeat: no-repeat;
 .caption{
     text-align: center;
 }
-.bottom img{
+.third img{
     width: 20%;
-    padding-left: 10%;   
 }
-.bottom{
-    background-image: url(Resource/bottom.png);
+.third{
+    margin-top: 10%;
+}
+.pic{
+    margin-left: 28%;
 }
 .last{
     text-align: center;
-    background-image: url("Resource/dream-bg.png");
-    background-repeat: no-repeat;
-    background-position: right;
+    margin-top: 10%;
 }
-.pink{
-    width: 20%;
-    border: 1px solid  deeppink;
+.finish{
+    text-align: center;
+    border: 5px;
     border-radius: 5px;
+    margin: 5% 30%;
+    padding: 5px;
     background-color: deeppink;
-    margin-left: 36%;
     color: white;
-    padding-left: 50px;
-    padding-right: 50px;
 }
 footer{
+    font-size: 8px;
     text-align: center;
-    font-size: 8%;
-    margin-top: 15px;
+    margin-bottom: 10px;
 }
+
+
+
+
+
+
